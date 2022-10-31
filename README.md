@@ -22,13 +22,13 @@ The Flash Player version that HARMAN provides is v50. In our archive, only Activ
 |2/16/2021|50.0.20.183|Unavailable|Available (x64)|
 |3/16/2021|50.0.20.338|Available (x86)|Unavailable|
 
-## Flash Player China Edition distributed by ZhongCheng (General Consumer Edition)
+## Flash Player China Edition by ZhongCheng (General Consumer Edition)
 ### Introduction
 Placeholder
 ### Available Archives
 Placeholder
 
-## Flash Player China Edition distributed by ZhongCheng (Enterprise & Education Edition)
+## Flash Player China Edition by ZhongCheng (Enterprise & Education Edition)
 ### Introduction
 Placeholder
 ### Available Archives
