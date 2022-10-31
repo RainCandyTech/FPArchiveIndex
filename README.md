@@ -71,4 +71,42 @@ Placeholder
 ### Tech Specs
 Placeholder
 ### Available Archives
+Only versions release before 2022 are listed. :)</br>
+Unfortunately I can't share them to the public, whether the info or binaries.
+|Date|Version|exe|msi|
+|:---|:---|:----:|:----:|
+|2019.6|32.0.0.207|Available|Unavailable|
+|2019.7|32.0.0.223|Available|Unavailable|
+|2019.10|32.0.0.270|Available|Available|
+|2019.11|32.0.0.293|Available|Available|
+|2019.12|32.0.0.303|Available|Available|
+|2020.3|32.0.0.344|Available|Available|
+|2020.4|32.0.0.363|Available|Available|
+|2020.5|32.0.0.371|Available|Available|
+|2020.6|32.0.0.387|Available|Available|
+|2020.7|32.0.0.403|Available|Available|
+|2020.8|32.0.0.414|Available|Available|
+|2021.7|34.0.0.175|Available|Available|
+|2021.10|34.0.0.192|Available|Unvailable|
+|2021.11|34.0.0.201|Available|Unvailable|
+|2021.12|34.0.0.211|Available|Available|
+
+## Flash Player Built-In Edition in Windows 8.x & 10
+### Introduction
 Placeholder
+### Tech Specs
+Placeholder
+### Available Archives
+Unfortunately we don't have collected them. There are lots of files, for different Windows versions:</br>
+Windows 8, Windows Embedded 8, Windows Server 2012</br>
+Windows 8.1, Windows Embedded 8.1, Windows Server 2012 R2</br>
+Windows 10 (Original Release)</br>
+Windows 10 Version 1511, Windows Server 2016 Technical Preview 4</br>
+Windows 10 Version 1607, Windows Server 2016</br>
+Windows 10 Version 1703</br>
+Windows 10 Version 1709</br>
+Windows 10 Version 1803</br>
+Windows 10 Version 1809, Windows Server 2019</br>
+Windows 10 Version 1903 & 1909</br>
+Windows 10 Version 2004 & 20H2</br>
+Each line for one package.
