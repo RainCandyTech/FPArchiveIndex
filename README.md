@@ -8,7 +8,7 @@ Adobe stopped supporting this version in December 31, 2020.</br>
 The last version is v32.0.0.465.
 ### Tech Specs
 Before version 30, this version is available for customers all around the world.</br>
-Beginning from version 30, the international version is not available for customers in mainland China.</br>
+Beginning from version 30, this version is not available for customers in mainland China.</br>
 After it released, if Chinese users still visiting Adobe's Flash Player Download Site,</br>
 they will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
 If they downloaded the exe installer of international version and tried to install,</br>
@@ -34,12 +34,12 @@ If you load a flash content and it is not located on the URL whitelist, the Play
 If you click the button it will lead you to [this page](https://airsdk.harman.com/flashplayer/blocked?url=URL). You can also get more informations at this page.
 ### Available Archives
 |Date (CST)|Version|ActiveX|PPAPI|
-|:---|:---|:----:|:----:|
-|12/30/2020|50.0.20.216|Unavailable|Available (x64)|
-|1/5/2021|50.0.20.314|Available (x86)|Unavailable|
-|1/8/2021|50.0.20.373|Available (x86)|Available (x64)|
-|2/16/2021|50.0.20.183|Unavailable|Available (x64)|
-|3/16/2021|50.0.20.338|Available (x86)|Unavailable|
+|:---|:---|:---|:---|
+|12/30/2020|50.0.20.216|:heavy_multiplication_x:|:heavy_check_mark:(x64)|
+|1/5/2021|50.0.20.314|:heavy_check_mark:(x86)|:heavy_multiplication_x:|
+|1/8/2021|50.0.20.373|:heavy_check_mark:(x86)|:heavy_check_mark:(x64)|
+|2/16/2021|50.0.20.183|:heavy_multiplication_x:|:heavy_check_mark:(x64)|
+|3/16/2021|50.0.20.338|:heavy_check_mark:(x86)|:heavy_multiplication_x:|
 
 ## Flash Player China Edition by ZhongCheng (General Consumer Edition)
 ### Introduction
@@ -62,8 +62,49 @@ They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 Active
 In January 2021, the version number is raised to 34.</br>
 Placeholder</br>
 TODO:FlashHelperService
-### Available Archives
-Placeholder
+### Available Archives (Normal Installer)
+|Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
+|:---|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|2020.9β|33.0.0.397|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2020.9β|33.0.0.399|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2020.9|33.0.0.401|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2020.10|33.0.0.413|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2020.11|33.0.0.417|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2020.12|33.0.0.432|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.1|34.0.0.92|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.2|34.0.0.105|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.3β|34.0.0.110|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.3|34.0.0.118|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.4|34.0.0.137|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.5|34.0.0.155|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.6|34.0.0.164|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.7|34.0.0.175|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.8|34.0.0.184|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.9|34.0.0.192|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.11|34.0.0.201|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2022.1β|34.0.0.209|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2022.1|34.0.0.211|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2022.4|34.0.0.231|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|
+|2022.5|34.0.0.242|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2022.6|34.0.0.251|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2022.8|34.0.0.267|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2022.11β|34.0.0.277|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+
+### Available Archives (Offline Installer)
+|Date|Version|ActiveX|PPAPI|NPAPI|
+|:---|:----:|:----:|:----:|:----:|
+|2018.12|32.0.0.101|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|
+|2020.5|32.0.0.330|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2020.6|32.0.0.387|:heavy_check_mark: (360 & QQ Guanjia)|:heavy_check_mark:|:heavy_check_mark:|
+|2020.7|32.0.0.403|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2020.9|33.0.0.401|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021.4|34.0.0.137|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021.5|34.0.0.155|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021.6|34.0.0.164|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021.7|34.0.0.175|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021.9|34.0.0.192|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2022.1|34.0.0.211|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2022.4|34.0.0.231|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
 ## Flash Player China Edition by ZhongCheng (Enterprise & Education Edition)
 ### Introduction
@@ -73,24 +114,34 @@ Placeholder
 ### Available Archives
 Only versions release before 2022 are listed. :)</br>
 Unfortunately I can't share them to the public, whether the info or binaries.
-|Date|Version|exe|msi|
-|:---|:---|:----:|:----:|
-|2019.6|32.0.0.207|Available|Unavailable|
-|2019.7|32.0.0.223|Available|Unavailable|
-|2019.10|32.0.0.270|Available|Available|
-|2019.11|32.0.0.293|Available|Available|
-|2019.12|32.0.0.303|Available|Available|
-|2020.3|32.0.0.344|Available|Available|
-|2020.4|32.0.0.363|Available|Available|
-|2020.5|32.0.0.371|Available|Available|
-|2020.6|32.0.0.387|Available|Available|
-|2020.7|32.0.0.403|Available|Available|
-|2020.8|32.0.0.414|Available|Available|
-|2021.7|34.0.0.175|Available|Available|
-|2021.10|34.0.0.192|Available|Unvailable|
-|2021.11|34.0.0.201|Available|Unvailable|
-|2021.12|34.0.0.211|Available|Available|
+|Date|Version|Is MSI installer available|
+|:---|:----:|:----:|
+|2019.6|32.0.0.207|:heavy_multiplication_x:|
+|2019.7|32.0.0.223|:heavy_multiplication_x:|
+|2019.10|32.0.0.270|:heavy_check_mark:|
+|2019.11|32.0.0.293|:heavy_check_mark:|
+|2019.12|32.0.0.303|:heavy_check_mark:|
+|2020.3|32.0.0.344|:heavy_check_mark:|
+|2020.4|32.0.0.363|:heavy_check_mark:|
+|2020.5|32.0.0.371|:heavy_check_mark:|
+|2020.6|32.0.0.387|:heavy_check_mark:|
+|2020.7|32.0.0.403|:heavy_check_mark:|
+|2020.8|32.0.0.414|:heavy_check_mark:|
+|2021.7|34.0.0.175|:heavy_check_mark:|
+|2021.10|34.0.0.192|:heavy_multiplication_x:|
+|2021.11|34.0.0.201|:heavy_multiplication_x:|
+|2021.12|34.0.0.211|:heavy_check_mark:|
 
+## Flash Player PPAPI Binaries for ZhongCheng Flash Center International Edition
+### Introduction
+Placeholder
+### Tech Specs
+Placeholder
+### Available Archives
+|Date|Version|
+|:---|:----:|
+|2021.4|34.0.0.137|
+|2021.8|34.0.0.184|
 ## Flash Player Built-In Edition in Windows 8.x & 10
 ### Introduction
 Placeholder
