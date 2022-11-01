@@ -141,6 +141,7 @@ This makes users angry and dissatisfy and many users appeal to uninstall and boy
 ### Available Archives (Linux)
 |Date|Version|PPAPI (tar.gz)|PPAPI (rpm)|NPAPI (tar.gz)|NPAPI (rpm)|
 |:---|:---|:----:|:----:|:----:|:----:|
+|2021.1|34.0.0.92|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|
 |2021.4|34.0.0.137|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|
 
 ## Flash Player China Edition by ZhongCheng (Enterprise & Education Edition)
