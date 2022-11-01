@@ -47,12 +47,15 @@ If you click the button it will lead you to [this page](https://airsdk.harman.co
 In February 28, 2018, Adobe announced the exclusive partner of Flash Player in China Mainland:</br>
 2144 and its subsidiary ZhongCheng Network.</br>
 Starting from version 30, they started to distribute a China-Specific version of Flash Player.</br>
-On their "Flash Player China Official Website", they provide online installers of FLash Player for Windows users,</br>
+On their "Flash Player China Official Website", they provide online installers of Flash Player for Windows users,</br>
 and offline installers for Mac and Linux users.</br>
 Unfortunately, they decided to stop offering Linux binaries for general users in May 2021.</br>
 (They will continue to offer Linux binaries for paid enterprise user.)</br>
 The last Linux version is v34.0.0.137.</br>
-The latest Windows & macOS version can be checked in ["Flash Player China Official Website"](https://www.flash.cn/download-wins).
+The latest Windows & macOS version can be checked in ["Flash Player China Official Website"](https://www.flash.cn/download-wins).</br></br>
+There're also offline installers for Windows too. You can download them from some 3rd party website or software,</br>
+such as 360 Software Manager (360 软件管家) and Tencent Software Center (腾讯软件中心).</br>
+They're also available on flash.cn server, but ZhongCheng doesn't publish them to the public.
 ### Tech Specs
 Before September 2020, the version number of China Edition is synchronized with the international version.</br>
 Starting in Sep 2020, the version number is raised to 33.</br>
