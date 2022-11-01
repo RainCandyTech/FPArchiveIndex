@@ -109,7 +109,7 @@ This makes users angry and dissatisfy and many users appeal to uninstall and boy
 |2020.6|32.0.0.387|:heavy_check_mark: (360 & Tencent)|:heavy_check_mark:|:heavy_check_mark:|
 |2020.7|32.0.0.403|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2020.9|33.0.0.401|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2020.10|33.0.0.413|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|
+|2020.10|33.0.0.413|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|
 |2021.4|34.0.0.137|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2021.5|34.0.0.155|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2021.6|34.0.0.164|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
