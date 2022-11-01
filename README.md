@@ -63,9 +63,16 @@ In the end of 2020, Microsoft is preparing to push a Windows Update to remove Ad
 integrated on Windows 8.x and Windows 10.</br>
 To let Chinese Flash Player users to play content on an ActiveX-based browser on Windows 8.x & 10,</br>
 They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
-In January 2021, the version number is raised to 34.</br>
-Placeholder</br>
-TODO:FlashHelperService
+In January 2021, the version number is raised to 34.</br></br>
+And Windows version contains "Flash Helper Service".</br>
+The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng</br>
+to "help improve Flash Player".</br>
+But according to user's feedback, this service will push ads to the computer.</br>
+And even worse, according to the Software Agreement of Flash Helper Service,</br>
+The service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
+If users try to disable or remove the service, the Player will refuse to play any flash content with an error message</br>
+"A required system component is not running properly" and ask users to reinstall.</br>
+This makes users angry and dissatisfy and many users appeal to uninstall and boycutt Flash Player.</br>
 ### Available Archives (Windows Normal Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
 |:---|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
