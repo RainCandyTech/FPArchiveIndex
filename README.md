@@ -106,7 +106,7 @@ This makes users angry and dissatisfy and many users appeal to uninstall and boy
 |:---|:----:|:----:|:----:|:----:|
 |2018.12|32.0.0.101|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|
 |2020.5|32.0.0.330|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2020.6|32.0.0.387|:heavy_check_mark: (360 & QQ Guanjia)|:heavy_check_mark:|:heavy_check_mark:|
+|2020.6|32.0.0.387|:heavy_check_mark: (360 & Tencent)|:heavy_check_mark:|:heavy_check_mark:|
 |2020.7|32.0.0.403|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2020.9|33.0.0.401|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2021.4|34.0.0.137|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -116,6 +116,8 @@ This makes users angry and dissatisfy and many users appeal to uninstall and boy
 |2021.9|34.0.0.192|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.1|34.0.0.211|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.4|34.0.0.231|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2022.5|34.0.0.242|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2022.8|34.0.0.267|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
 ### Available Archives (macOS DMG image)
 |Date|Version|PPAPI|NPAPI|
