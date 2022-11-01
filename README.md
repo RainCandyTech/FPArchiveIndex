@@ -11,12 +11,13 @@ Before version 30, this version is available for customers all around the world.
 Beginning from version 30, this version is not available for customers in mainland China.</br>
 After it released, if Chinese users still visiting Adobe's Flash Player Download Site,</br>
 they will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
-If they downloaded the exe installer of international version and tried to install,</br>
+For Windows exe installers, if the users try to install them,</br>
 the setup will not launch and will lead the user to ZhongCheng's website too.</br>
 If they disconnected from the internet, they will able to install the program successfully.</br>
 But if the Player detected the user is located in China, it will refuse to run any flash content</br>
 with an error message "not compatible with your region" and require a reinstall.</br>
-The reinstall button will lead the user to ZhongCheng's website.</br></br>
+The reinstall button will lead the user to ZhongCheng's website.</br>
+There's no region lock on macOS & Linux version.</br></br>
 Starting from version 32.0.0.403, Adobe integrates a timebomb in the program.</br>
 It will refuse to play any flash content starting from January 12, 2021.
 ### Available Archives
@@ -62,7 +63,7 @@ They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 Active
 In January 2021, the version number is raised to 34.</br>
 Placeholder</br>
 TODO:FlashHelperService
-### Available Archives (Normal Installer)
+### Available Archives (Windows Normal Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
 |:---|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |2020.9β|33.0.0.397|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
@@ -90,7 +91,7 @@ TODO:FlashHelperService
 |2022.8|34.0.0.267|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.11β|34.0.0.277|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 
-### Available Archives (Offline Installer)
+### Available Archives (Windows Offline Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|
 |:---|:----:|:----:|:----:|:----:|
 |2018.12|32.0.0.101|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|
@@ -106,12 +107,35 @@ TODO:FlashHelperService
 |2022.1|34.0.0.211|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.4|34.0.0.231|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
+### Available Archives (macOS DMG image)
+|Date|Version|PPAPI|NPAPI|
+|:---|:---|:----:|:----:|
+|2020.4|32.0.0.363|:heavy_check_mark:|:heavy_check_mark:|
+|2020.12|33.0.0.432|:heavy_check_mark:|:heavy_check_mark:|
+|2021.4|34.0.0.137|:heavy_check_mark:|:heavy_check_mark:|
+|2021.5|34.0.0.155|:heavy_check_mark:|:heavy_check_mark:|
+|2021.6|34.0.0.164|:heavy_check_mark:|:heavy_check_mark:|
+|2021.7|34.0.0.175|:heavy_check_mark:|:heavy_check_mark:|
+|2021.8|34.0.0.184|:heavy_check_mark:|:heavy_check_mark:|
+|2021.9|34.0.0.192|:heavy_check_mark:|:heavy_check_mark:|
+|2021.11|34.0.0.201|:heavy_check_mark:|:heavy_check_mark:|
+|2022.1|34.0.0.211|:heavy_check_mark:|:heavy_check_mark:|
+|2022.4|34.0.0.231|:heavy_check_mark:|:heavy_check_mark:|
+|2022.5|34.0.0.242|:heavy_check_mark:|:heavy_check_mark:|
+|2022.6|34.0.0.251|:heavy_check_mark:|:heavy_check_mark:|
+|2022.8|34.0.0.267|:heavy_check_mark:|:heavy_check_mark:|
+
+### Available Archives (Linux)
+|Date|Version|PPAPI (tar.gz)|PPAPI (rpm)|NPAPI (tar.gz)|NPAPI (rpm)|
+|:---|:---|:----:|:----:|:----:|:----:|
+|2021.4|34.0.0.137|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|
+
 ## Flash Player China Edition by ZhongCheng (Enterprise & Education Edition)
 ### Introduction
 Placeholder
 ### Tech Specs
 Placeholder
-### Available Archives
+### Available Archives (Windows)
 Only versions release before 2022 are listed. :)</br>
 Unfortunately I can't share them to the public, whether the info or binaries.
 |Date|Version|Is MSI installer available|
@@ -134,9 +158,11 @@ Unfortunately I can't share them to the public, whether the info or binaries.
 
 ## Flash Player PPAPI Binaries for ZhongCheng Flash Center International Edition
 ### Introduction
-Placeholder
+ZhongCheng tried to make a international edition of Flash Center.</br>
+This application integrates a 32-bit version of Flash Player PPAPI dll binary.</br>
+The file name is "game_center32.dll".
 ### Tech Specs
-Placeholder
+It refuses to play any flash content outside the Flash Center application.</br></br>
 ### Available Archives
 |Date|Version|
 |:---|:----:|
@@ -144,9 +170,16 @@ Placeholder
 |2021.8|34.0.0.184|
 ## Flash Player Built-In Edition in Windows 8.x & 10
 ### Introduction
-Placeholder
+Starting from Windows 8, Microsoft begins to integrate a special edition of Flash Player ActiveX into the Windows OS.
+The last version is v32.0.0.445.
 ### Tech Specs
-Placeholder
+The version number is synchronized with the international version.</br>
+As same as the normal international version, starting from version 32.0.0.403, Adobe integrates a timebomb in the program.</br>
+It will refuse to play any flash content starting from January 12, 2021.</br></br>
+This version has no region lock and Chinese users can use it too.</br>
+If the user installs Windows 8.x & 10 ActiveX special edition for China,</br>
+This version will be uninstalled. </br></br>
+It can be uninstalled by installing KB4577586 update too.</br>
 ### Available Archives
 Unfortunately we don't have collected them. There are lots of files, for different Windows versions:</br>
 Windows 8, Windows Embedded 8, Windows Server 2012</br>
