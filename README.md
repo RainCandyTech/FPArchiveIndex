@@ -12,7 +12,7 @@ Beginning from version 30, this version is not available for customers in mainla
 After it released, if Chinese users still visiting Adobe's Flash Player Download Site, they will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
 For Windows exe installers, if the users try to install them, the setup will not launch and will lead the user to ZhongCheng's website too.</br>
 If they disconnected from the internet, they will able to install the program successfully.</br>
-But if the Player detected the user is located in China, it will refuse to run any flash content with an error message "not compatible with your region" and require a reinstall.</br>
+But if the Player detected the user is located in China, it will refuse to run any flash content with an error message "not compatible with your region" and requires user to reinstall.</br>
 The reinstall button will lead the user to ZhongCheng's website.</br>
 There's no region lock on macOS & Linux version.</br></br>
 Starting from version 32.0.0.403, Adobe integrates a timebomb in the program. It will refuse to play any flash content starting from January 12, 2021.
@@ -192,6 +192,8 @@ This version will be uninstalled. </br></br>
 It can be uninstalled by installing KB4577586 update too.</br>
 ### Available Archives
 Unfortunately we don't have collected them. There are lots of files, for different Windows versions:</br>
+Windows 8 Customer Preview, Windows Embedded 8 Beta, Windows Server 8 Beta</br>
+Windows 8 Release Preview, Windows Server 2012 Release Candidate</br>
 Windows 8, Windows Embedded 8, Windows Server 2012</br>
 Windows 8.1, Windows Embedded 8.1, Windows Server 2012 R2</br>
 Windows 10 (Original Release)</br>
