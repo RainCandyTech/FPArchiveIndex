@@ -53,11 +53,9 @@ such as 360 Software Manager (360 软件管家) and Tencent Software Center (腾
 They're also available on flash.cn server, but ZhongCheng doesn't publish them to the public.
 ### Tech Specs
 Before September 2020, the version number of China Edition is synchronized with the international version.</br>
-Starting in Sep 2020, the version number is raised to 33.</br>
-In the end of 2020, Microsoft is preparing to push a Windows Update to remove Adobe Flash Player ActiveX that</br>
-integrated on Windows 8.x and Windows 10.</br>
-To let Chinese Flash Player users to play content on an ActiveX-based browser on Windows 8.x & 10,</br>
-They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
+Starting in September 2020, the version number is raised to 33.</br>
+In the end of 2020, Microsoft is preparing to push a Windows Update to remove Adobe Flash Player ActiveX that integrated on Windows 8.x and Windows 10.</br>
+To let Chinese Flash Player users to play content on an ActiveX-based browser on Windows 8.x & 10, They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
 In January 2021, the version number is raised to 34.</br></br>
 And Windows version contains "Flash Helper Service".</br>
 The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng</br>
