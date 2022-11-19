@@ -58,13 +58,10 @@ In the end of 2020, Microsoft is preparing to push a Windows Update to remove Ad
 To let Chinese Flash Player users to play content on an ActiveX-based browser on Windows 8.x & 10, They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
 In January 2021, the version number is raised to 34.</br></br>
 And Windows version contains "Flash Helper Service".</br>
-The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng</br>
-to "help improve Flash Player".</br>
+The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng to "help improve Flash Player".</br>
 But according to user's feedback, this service will push ads to the computer.</br>
-And even worse, according to the Software Agreement of Flash Helper Service,</br>
-The service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
-If users try to disable or remove the service, the Player will refuse to play any flash content with an error message</br>
-"A required system component is not running properly" and ask users to reinstall.</br>
+And even worse, according to the Software Agreement of Flash Helper Service, The service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
+If users try to disable or remove the service, the Player will refuse to play any flash content with an error message "A required system component is not running properly" and ask users to reinstall.</br>
 This makes users angry and dissatisfy and many users appeal to uninstall and boycutt Flash Player.</br>
 ### Available Archives (Windows Normal Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
@@ -142,7 +139,17 @@ This makes users angry and dissatisfy and many users appeal to uninstall and boy
 ### Introduction
 Placeholder
 ### Tech Specs
-Placeholder
+After the purchase or application is finished, users will get a compressed file.
+It contains three variants of Flash Player Installer (ActiveX+PPAPI+NPAPI) and a license file (license.dat).
+The user need copy the license file to the following path.
+```
+x86 OS: %WINDIR%\System32\Macromed\Flash
+AMD64 OS: %WINDIR%\SysWOW64\Macromed\Flash
+```
+It also contains a special version of "Flash Helper Service". The service will read the license file to check is it vaild.</br>
+If the answer is no, the Player will show a warning symbol and it will lead the user to this page ([Problems of Flash Player Enterprise is running abnormally](https://www.flash.cn/enterprise/errordialog)).</br>
+And it won't push any ads to the computer.</br>
+The binary file of the service is protected by VMProtect 3.x.
 ### Available Archives (Windows)
 Only versions release before 2022 are listed. :)</br>
 Unfortunately I can't share them to the public, whether the info or binaries.
