@@ -109,6 +109,7 @@ This makes users angry and dissatisfy and many users appeal to uninstall and boy
 |2022.4|34.0.0.231|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.5|34.0.0.242|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.8|34.0.0.267|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2022.11|34.0.0.277|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 
 ### Available Archives (macOS DMG image)
 |Date|Version|PPAPI|NPAPI|
