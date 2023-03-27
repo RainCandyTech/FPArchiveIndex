@@ -1,5 +1,5 @@
 # FPArchiveIndex
-Index of our Adobe Flash Player Archive Collection. Currently under construction.
+Index of my Adobe Flash Player Archive Collection. Currently under construction.
 
 ## Flash Player International Edition by Adobe
 ### Introduction
