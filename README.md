@@ -154,8 +154,7 @@ If the answer is no, the Player will show a warning symbol and it will lead the 
 And it won't push any ads to the computer.</br>
 The binary file of the service is protected by VMProtect 3.x.
 ### Available Archives (Windows)
-Only versions release before 2022 are listed. :)</br>
-Unfortunately I can't share them to the public, whether the info or binaries.
+Only versions release before 2023 are listed. :)</br>
 |Date|Version|Is MSI installer available|
 |:---|:----:|:----:|
 |2019.6|32.0.0.207|:heavy_multiplication_x:|
@@ -173,6 +172,11 @@ Unfortunately I can't share them to the public, whether the info or binaries.
 |2021.10|34.0.0.192|:heavy_multiplication_x:|
 |2021.11|34.0.0.201|:heavy_multiplication_x:|
 |2021.12|34.0.0.211|:heavy_check_mark:|
+|2022.4|34.0.0.231|:heavy_check_mark:|
+|2022.5|34.0.0.242|:heavy_check_mark:|
+|2022.6|34.0.0.251|:heavy_check_mark:|
+|2022.8|34.0.0.267|:heavy_check_mark:|
+|2022.11|34.0.0.277|:heavy_multiplication_x:|
 
 ## Flash Player China Edition by ZhongCheng (Embedded Edition for Flash Center)
 ### Introduction
