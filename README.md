@@ -174,16 +174,15 @@ Unfortunately I can't share them to the public, whether the info or binaries.
 |2021.11|34.0.0.201|:heavy_multiplication_x:|
 |2021.12|34.0.0.211|:heavy_check_mark:|
 
-## Flash Player PPAPI Binaries for ZhongCheng Flash Center International Edition
+## Flash Player China Edition by ZhongCheng (Embedded Edition for Flash Center)
 ### Introduction
-ZhongCheng tried to make a international edition of Flash Center.</br>
-This application integrates a 32-bit version of Flash Player PPAPI dll binary.</br>
-The file name is "game_center32.dll".
+This is an Embedded version for ZhongCheng's Flash Center Application. Only 32-bit PPAPI version is available.
 ### Tech Specs
 It refuses to play any flash content outside the Flash Center application.</br></br>
 ### Available Archives
 |Date|Version|
 |:---|:----:|
+|2020.5|32.0.0.371|
 |2021.4|34.0.0.137|
 |2021.8|34.0.0.184|
 ## Flash Player Built-In Edition in Windows 8.x & 10
