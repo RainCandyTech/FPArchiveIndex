@@ -149,7 +149,7 @@ x86 OS: %WINDIR%\System32\Macromed\Flash
 AMD64 OS: %WINDIR%\SysWOW64\Macromed\Flash
 ```
 The installer will deploy a special version of Flash Helper Service. The service will read the license file to check is it vaild.</br>
-If the answer is no, the Player will show a warning symbol and it will lead the user to this page ([Problems of Flash Player Enterprise is running abnormally](https://www.flash.cn/enterprise/errordialog)).</br>
+If the answer is no, the Player will show a warning symbol and lead users to this page ([Problems of Flash Player Enterprise is running abnormally](https://www.flash.cn/enterprise/errordialog)).</br>
 And it won't push any ads to the computer.</br>
 The binary file of the service is protected by VMProtect 3.x.
 ### Available Archives (Windows)
