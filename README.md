@@ -91,7 +91,7 @@ This makes users angry and dissatisfy and many users appeal to uninstall and boy
 |2022.8|34.0.0.267|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.11|34.0.0.277|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2023.3|34.0.0.282|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|2023.6β|34.0.0.289|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2023.6|34.0.0.289|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 ### Available Archives (Windows Offline Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|
 |:---|:----:|:----:|:----:|:----:|
@@ -131,6 +131,7 @@ This makes users angry and dissatisfy and many users appeal to uninstall and boy
 |2022.8|34.0.0.267|:heavy_check_mark:|:heavy_check_mark:|
 |2022.11|34.0.0.277|:heavy_check_mark:|:heavy_check_mark:|
 |2023.3|34.0.0.282|:heavy_check_mark:|:heavy_check_mark:|
+|2023.6|34.0.0.289|:heavy_check_mark:|:heavy_check_mark:|
 
 ### Available Archives (Linux)
 |Date|Version|PPAPI (tar.gz)|PPAPI (rpm)|NPAPI (tar.gz)|NPAPI (rpm)|
