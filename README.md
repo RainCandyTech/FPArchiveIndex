@@ -58,7 +58,7 @@ In January 2021, the version number is raised to 34.</br></br>
 And the Windows version contains "Flash Helper Service".</br>
 The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng to "help improve Flash Player".</br>
 But according to user's feedback, this service will push ads to the computer.</br>
-And even worse, according to the early version of Flash Helper Service Software License Agreement, This service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
+And even worse, according to the early version of Flash Helper Service Software License Agreement, this service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
 If users try to disable or remove this service, Flash Player will refuse to play any content with an error message "A required system component is not running properly" and ask users to reinstall.</br>
 This makes users angry and dissatisfy and many users appeal to uninstall Flash Player and boycutt ZhongCheng Network.</br>
 ### Available Archives (Windows Normal Installer)
