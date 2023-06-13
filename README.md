@@ -9,7 +9,7 @@ The last version is v32.0.0.465.
 ### Tech Specs
 Before version 30, this version is available for customers all around the world.</br>
 Beginning from version 30, this version is not available for customers in mainland China.</br>
-After it released, if Chinese users still visiting Adobe's Flash Player Download Site, they will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
+After it was released, if Chinese users still visiting Adobe's Flash Player Download Site, they will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
 For Windows exe installers, if the users try to install them, the setup will not launch and will lead the user to ZhongCheng's website too.</br>
 If they disconnected from the internet, they will able to install the program successfully.</br>
 But if the Player detected the user is located in China, it will refuse to run any flash content with an error message "not compatible with your region" and requires user to reinstall.</br>
