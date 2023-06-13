@@ -25,8 +25,7 @@ On the [Adobe Flash Player EOL Enterprise Information Page](https://www.adobe.co
 Adobe announced the official enterprise distributor for Flash Player outside China mainland, HARMAN International. From unknown sources, their Flash support service costs about $50,000 per year.
 ### Tech Specs
 The Flash Player version provided by them is v50. In our archive, only ActiveX & PPAPI version available.</br>
-This version of Flash has been limited in the URLs that it can load. If users load a flash content and it is not located on the URL whitelist,</br> 
-the Player will refuse to load it and show the info button. The button will lead users to [this page](https://airsdk.harman.com/flashplayer/blocked?url=URL). By the way, you can also get more informations at this page.
+This version of Flash has been limited in the URLs that it can load. If users load a flash content and it is not located on the URL whitelist, the Player will refuse to load it and show the info button. The button will lead users to [this page](https://airsdk.harman.com/flashplayer/blocked?url=URL). By the way, you can also get more informations at this page.
 ### Available Archives
 |Date (CST)|Version|ActiveX|PPAPI|
 |:---|:---|:---|:---|
