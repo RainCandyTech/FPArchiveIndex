@@ -57,12 +57,12 @@ Starting in September 2020, the version number is raised to 33.</br>
 In the end of 2020, Microsoft is preparing to push a Windows Update to remove Adobe Flash Player ActiveX that integrated on Windows 8.x and Windows 10.</br>
 To let Chinese Flash Player users to play content on an ActiveX-based browser on Windows 8.x & 10, They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
 In January 2021, the version number is raised to 34.</br></br>
-And Windows version contains "Flash Helper Service".</br>
+And the Windows version contains "Flash Helper Service".</br>
 The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng to "help improve Flash Player".</br>
 But according to user's feedback, this service will push ads to the computer.</br>
-And even worse, according to the Software Agreement of Flash Helper Service, The service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
-If users try to disable or remove the service, the Player will refuse to play any flash content with an error message "A required system component is not running properly" and ask users to reinstall.</br>
-This makes users angry and dissatisfy and many users appeal to uninstall and boycutt Flash Player.</br>
+And even worse, according to the early version of Flash Helper Service Software License Agreement, This service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
+If users try to disable or remove this service, Flash Player will refuse to play any content with an error message "A required system component is not running properly" and ask users to reinstall.</br>
+This makes users angry and dissatisfy and many users appeal to uninstall Flash Player and boycutt ZhongCheng Network.</br>
 ### Available Archives (Windows Normal Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
 |:---|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -155,7 +155,6 @@ If the answer is no, the Player will show a warning symbol and it will lead the 
 And it won't push any ads to the computer.</br>
 The binary file of the service is protected by VMProtect 3.x.
 ### Available Archives (Windows)
-Only versions release before 2023 are listed. :)</br>
 |Date|Version|Is MSI installer available|
 |:---|:----:|:----:|
 |2019.6|32.0.0.207|:heavy_multiplication_x:|
@@ -181,7 +180,7 @@ Only versions release before 2023 are listed. :)</br>
 
 ## Flash Player China Edition by ZhongCheng (Embedded Edition for Flash Center)
 ### Introduction
-This is an Embedded version for ZhongCheng's Flash Center Application. Only 32-bit PPAPI version is available.
+This is an Embedded version of PPAPI Flash Player for ZhongCheng's Flash Center Application. Only 32-bit version is available.
 ### Tech Specs
 It refuses to play any flash content outside the Flash Center application.</br></br>
 ### Available Archives
@@ -203,18 +202,4 @@ If the user installs Windows 8.x & 10 ActiveX special edition for China,</br>
 This version will be uninstalled. </br></br>
 It can be uninstalled by installing KB4577586 update too.</br>
 ### Available Archives
-Unfortunately we don't have collected them. There are lots of files, for different Windows versions:</br>
-Windows 8 Customer Preview, Windows Embedded 8 Beta, Windows Server 8 Beta</br>
-Windows 8 Release Preview, Windows Server 2012 Release Candidate</br>
-Windows 8, Windows Embedded 8, Windows Server 2012</br>
-Windows 8.1, Windows Embedded 8.1, Windows Server 2012 R2</br>
-Windows 10 (Original Release)</br>
-Windows 10 Version 1511, Windows Server 2016 Technical Preview 4</br>
-Windows 10 Version 1607, Windows Server 2016</br>
-Windows 10 Version 1703</br>
-Windows 10 Version 1709</br>
-Windows 10 Version 1803</br>
-Windows 10 Version 1809, Windows Server 2019</br>
-Windows 10 Version 1903 & 1909</br>
-Windows 10 Version 2004 & 20H2</br>
-Each line for one package.
+Unfortunately we don't have collected them. There are lots of files, for different Windows versions.
