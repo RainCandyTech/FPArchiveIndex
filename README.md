@@ -1,10 +1,9 @@
 # FPArchiveIndex
-Index of my Adobe Flash Player Archive Collection. Currently under construction.
+Index of our Adobe Flash Player Archive Collection. Currently under construction.
 
 ## Flash Player International Edition by Adobe
 ### Introduction
-This is the normal version released by Adobe themselves. </br>
-Adobe stopped supporting this version in December 31, 2020.</br>
+This is the normal version released by Adobe themselves. Adobe stopped supporting this version in December 31, 2020.</br>
 The last version is v32.0.0.465.
 ### Tech Specs
 Before version 30, this version is available for customers all around the world.</br>
@@ -12,10 +11,10 @@ Beginning from version 30, this version is not available for customers in mainla
 After it was released, if Chinese users still visiting Adobe's Flash Player Download Site, they will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
 For Windows exe installers, if Chinese users try to install them, the setup will not launch and will lead the user to ZhongCheng's website too.</br>
 If they are disconnected from the internet, they will able to install the program successfully.</br>
-But if the Player detected the user is located in China, it will refuse to run any content with an error message "not compatible with your region" and requires user to reinstall.</br>
+But if the Player detected the user is located in China, it will refuse to run any contents with an error message "not compatible with your region" and requires user to reinstall.</br>
 The reinstall button will lead the user to ZhongCheng's website.</br>
 But there's no region lock on macOS & Linux version.</br></br>
-Starting from version 32.0.0.403, Adobe integrates a timebomb in the program. It will refuse to play any content starting from January 12, 2021.
+Starting from version 32.0.0.403, Adobe integrates a timebomb in the program. It will refuse to play any contents starting from January 12, 2021.
 ### Available Archives
 The original binaries of this version is available in Internet Archive. 
 
@@ -37,8 +36,7 @@ This version of Flash has been limited in the URLs that it can load. If users lo
 
 ## Flash Player China Edition by ZhongCheng (General Consumer Edition)
 ### Introduction
-In February 28, 2018, Adobe announced the exclusive partner of Flash Player in China Mainland:</br>
-2144 and its subsidiary ZhongCheng Network.</br>
+In February 28, 2018, Adobe announced the exclusive partner of Flash Player in China Mainland: 2144 and its subsidiary ZhongCheng Network.</br>
 Starting from version 30, they started to distribute a China-Specific version of Flash Player.</br>
 On their "Flash Player China Official Website", they provide online installers of Flash Player for Windows users,</br>
 and offline installers for Mac and Linux users.</br>
@@ -53,14 +51,15 @@ They're also available on flash.cn server, but ZhongCheng doesn't publish them t
 Before September 2020, the version number of China Edition is synchronized with the international version.</br>
 Starting in September 2020, the version number is raised to 33.</br>
 In the end of 2020, Microsoft is preparing to push a Windows Update to remove Adobe Flash Player ActiveX that integrated on Windows 8.x and Windows 10.</br>
-To let Chinese Flash Player users to play content on an ActiveX-based browser on Windows 8.x & 10, They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
+To let Chinese Flash Player users to play contents on an ActiveX-based browser on Windows 8.x & 10, They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
 In January 2021, the version number is raised to 34.</br></br>
 And the Windows version contains "Flash Helper Service".</br>
 The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng to "help improve Flash Player".</br>
 But according to user's feedback, this service will push ads to the computer.</br>
 And even worse, according to the early version of Flash Helper Service Software License Agreement, this service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
-If users try to disable or remove this service, Flash Player will refuse to play any content with an error message "A required system component is not running properly" and ask users to reinstall.</br>
+If users try to disable or remove this service, Flash Player will refuse to play any contents with an error message "A required system component is not running properly" and ask users to reinstall.</br>
 This makes users angry and dissatisfy and many users appeal to uninstall Flash Player and boycutt ZhongCheng Network.</br>
+In addition, when the service detects an enterprise environment (an Active Directory environment), Flash Player will refuse to play contents too, so business users have to purchase their Enterprise Service.</br>
 ### Available Archives (Windows Normal Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
 |:---|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -180,7 +179,7 @@ The binary file of the service is protected by VMProtect 3.x.
 ### Introduction
 This is an Embedded version of PPAPI Flash Player for ZhongCheng's Flash Center Application. Only 32-bit version is available.
 ### Tech Specs
-It refuses to play any flash content outside the Flash Center application.</br></br>
+It refuses to play any flash contents outside the Flash Center application.</br></br>
 ### Available Archives
 |Date|Version|
 |:---|:----:|
@@ -194,7 +193,7 @@ The last version is v32.0.0.445.
 ### Tech Specs
 The version number is synchronized with the international version.</br>
 As same as the normal international version, starting from version 32.0.0.403, Adobe integrates a timebomb in the program.</br>
-It will refuse to play any flash content starting from January 12, 2021.</br></br>
+It will refuse to play any flash contents starting from January 12, 2021.</br></br>
 This version has no region lock and Chinese users can use it too.</br>
 If the user installs Windows 8.x & 10 ActiveX special edition for China,</br>
 This version will be uninstalled. </br></br>
