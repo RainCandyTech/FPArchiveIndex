@@ -63,22 +63,22 @@ In addition, when the service detects an enterprise environment (an Active Direc
 ### Available Archives (Windows Normal Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
 |:---|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|2020.9β|33.0.0.397|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2020.9β|33.0.0.399|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2020.9|33.0.0.401|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2020.10|33.0.0.413|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2020.11|33.0.0.417|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2020.12|33.0.0.432|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2020.9β|33.0.0.397|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|
+|2020.9β|33.0.0.399|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|
+|2020.9|33.0.0.401|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|
+|2020.10|33.0.0.413|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|
+|2020.11|33.0.0.417|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|:grey_question:|:grey_question:|:heavy_check_mark:|:grey_question:|:grey_question:|
+|2020.12|33.0.0.432|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|:grey_question:|:grey_question:|:heavy_multiplication_x:|:grey_question:|:grey_question:|
 |2021.1|34.0.0.92|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|
-|2021.2|34.0.0.105|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.2|34.0.0.105|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|
 |2021.3β|34.0.0.110|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark: (Legacy & Win8+)|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2021.3|34.0.0.118|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.3|34.0.0.118|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|
 |2021.4|34.0.0.137|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2021.5|34.0.0.155|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2021.6|34.0.0.164|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2021.7|34.0.0.175|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.7|34.0.0.175|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|
 |2021.8|34.0.0.184|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
-|2021.9|34.0.0.192|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|2021.9|34.0.0.192|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|
 |2021.11|34.0.0.201|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2022.1β|34.0.0.209|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2022.1|34.0.0.211|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
@@ -115,6 +115,7 @@ In addition, when the service detects an enterprise environment (an Active Direc
 |:---|:---|:----:|:----:|
 |2020.4|32.0.0.363|:heavy_check_mark:|:heavy_check_mark:|
 |2020.12|33.0.0.432|:heavy_check_mark:|:heavy_check_mark:|
+|2021.1|34.0.0.92|:heavy_check_mark:|:heavy_check_mark:|
 |2021.4|34.0.0.137|:heavy_check_mark:|:heavy_check_mark:|
 |2021.5|34.0.0.155|:heavy_check_mark:|:heavy_check_mark:|
 |2021.6|34.0.0.164|:heavy_check_mark:|:heavy_check_mark:|
