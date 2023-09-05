@@ -63,6 +63,7 @@ In addition, when the service detects an enterprise environment (an Active Direc
 ### Available Archives (Windows Normal Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
 |:---|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|2018.6|30.0.0.113|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|N/A|N/A|N/A|N/A|N/A|N/A|
 |2020.9β|33.0.0.397|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|
 |2020.9β|33.0.0.399|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|
 |2020.9|33.0.0.401|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|:grey_question:|
@@ -94,7 +95,10 @@ In addition, when the service detects an enterprise environment (an Active Direc
 ### Available Archives (Windows Offline Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|
 |:---|:----:|:----:|:----:|:----:|
-|2018.12|32.0.0.101|:heavy_multiplication_x:|:heavy_check_mark:|:heavy_multiplication_x:|
+|2018.9|31.0.0.108|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2018.11 #1|31.0.0.148|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2018.11 #2|31.0.0.153|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2018.12|32.0.0.101|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2020.5|32.0.0.330|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2020.6|32.0.0.387|:heavy_check_mark: (360 & Tencent)|:heavy_check_mark:|:heavy_check_mark:|
 |2020.7|32.0.0.403|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
