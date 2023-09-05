@@ -95,6 +95,7 @@ In addition, when the service detects an enterprise environment (an Active Direc
 ### Available Archives (Windows Offline Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|
 |:---|:----:|:----:|:----:|:----:|
+|2018.9|30.0.0.154|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2018.9|31.0.0.108|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2018.11 #1|31.0.0.148|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2018.11 #2|31.0.0.153|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -108,7 +109,9 @@ In addition, when the service detects an enterprise environment (an Active Direc
 |2021.5|34.0.0.155|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2021.6|34.0.0.164|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2021.7|34.0.0.175|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021.9|34.0.0.184|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2021.9|34.0.0.192|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2021.9|34.0.0.201|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.1|34.0.0.211|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.4|34.0.0.231|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2022.5|34.0.0.242|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
