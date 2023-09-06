@@ -1,30 +1,33 @@
 # FPArchiveIndex
 Index of our Adobe Flash Player Archive Collection. Currently under construction.
 
-## Flash Player International Edition by Adobe
+## Flash Player Consumer Edition by Adobe (Worldwide)
 ### Introduction
 This is the normal version released by Adobe themselves. Adobe stopped supporting this version in December 31, 2020.</br>
 The last version is v32.0.0.465.
 ### Tech Specs
-Before version 30, this version is available for customers all around the world.</br>
-Beginning from version 30, this version is not available for customers in mainland China.</br>
-After it was released, if Chinese users still visiting Adobe's Flash Player Download Site, they will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
-For Windows exe installers, if Chinese users try to install them, the setup will not launch and will lead the user to ZhongCheng's website too.</br>
-If they are disconnected from the internet, they will able to install the program successfully.</br>
-But if the Player detected the user is located in China, it will refuse to run any contents with an error message "not compatible with your region" and requires user to reinstall.</br>
-The reinstall button will lead the user to ZhongCheng's website.</br>
+Before version 30, this version is available for consumers all around the world. After that, it is not available for consumers in Chinese Mainland.</br>
+Chinese Mainland consumers who are still visiting Adobe's own Flash Player website will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
+Windows exe installers will also check for IP from Chinese Mainland, if detected the setup will not launch and it will lead users to ZhongCheng's website too.</br>
+Although they can install the global version of the application successfully by disconnecting from the internet, they will get an error message "not compatible with your region"
+and the Player will refuse to run any contents and requires user to reinstall. The reinstall button will lead the user to ZhongCheng's website.</br></br>
 But there's no region lock on macOS & Linux version.</br></br>
-Starting from version 32.0.0.403, Adobe integrates a timebomb in the program. It will refuse to play any contents starting from January 12, 2021.
+Starting from version 32.0.0.403, Adobe integrates a timebomb in this edition. It will refuse to play any contents starting from January 12, 2021.
 ### Available Archives
-The original binaries of this version is available in Internet Archive. 
+The original binaries of this version are available in the following links from Internet Archive. <br>
+* [Flash Player Archive @ Internet Archive](https://archive.org/details/flashplayerarchive) - Backup of Adobe's official "Archived Flash Player Versions" pages, up to version 32.0.0.387<br>
+* [Adobe Flash Player 32.0.0.453 / 32.0.0.465 @ Internet Archive](https://archive.org/details/fp_32.0.0.465_archive) - Archive of version 32.0.0.453 & 32.0.0.465<br>
 
-## Flash Player Enterprise by HARMAN
+However, some versions are not fully archived. You might be able to find them at other places.
+
+## Flash Player Enterprise Edition by HARMAN (Worldwide)
 ### Introduction
 On the [Adobe Flash Player EOL Enterprise Information Page](https://www.adobe.com/products/flashplayer/enterprise-end-of-life.html), 
 Adobe announced the official enterprise distributor for Flash Player outside China mainland, HARMAN International. From unknown sources, their Flash support service costs about $50,000 per year.
 ### Tech Specs
 The Flash Player version provided by them is v50. In our archive, only ActiveX & PPAPI version available.</br>
-This version of Flash has been limited in the URLs that it can load. If users load a flash content and it is not located on the URL whitelist, the Player will refuse to load it and show the info button. The button will lead users to [this page](https://airsdk.harman.com/flashplayer/blocked?url=URL). By the way, you can also get more informations at this page.
+This version of Flash has been limited in the URLs that it can load. If users load a flash content and it is not located on the URL whitelist,</br>
+the Player will refuse to load it and show the info button. The button will lead users to [this page](https://airsdk.harman.com/flashplayer/blocked?url=URL). By the way, you can also get more informations at this page.
 ### Available Archives
 |Date (CST)|Version|ActiveX|PPAPI|
 |:---|:---|:---|:---|
@@ -34,12 +37,11 @@ This version of Flash has been limited in the URLs that it can load. If users lo
 |2/16/2021|50.0.20.183|:heavy_multiplication_x:|:heavy_check_mark:(x64)|
 |3/16/2021|50.0.20.338|:heavy_check_mark:(x86)|:heavy_multiplication_x:|
 
-## Flash Player China Edition by ZhongCheng (General Consumer Edition)
+## Flash Player Consumer Edition by ZhongCheng Network (Chinese Mainland)
 ### Introduction
 In February 28, 2018, Adobe announced the exclusive partner of Flash Player in China Mainland: 2144 and its subsidiary ZhongCheng Network.</br>
 Starting from version 30, they started to distribute a China-Specific version of Flash Player.</br>
-On their "Flash Player China Official Website", they provide online installers of Flash Player for Windows users,</br>
-and offline installers for Mac and Linux users.</br>
+On their "Flash Player China Official Website", they provide online installers of Flash Player for Windows users, and offline installers for Mac and Linux users.</br>
 Unfortunately, they decided to stop offering Linux binaries for general users in May 2021.</br>
 (They will continue to offer Linux binaries for paid enterprise user.)</br>
 The last Linux version is v34.0.0.137.</br>
@@ -147,9 +149,28 @@ In addition, when the service detects an enterprise environment (an Active Direc
 |2021.1|34.0.0.92|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|
 |2021.4|34.0.0.137|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|
 
-## Flash Player China Edition by ZhongCheng (Enterprise & Education Edition)
+## Flash Player Enterprise Edition by ZhongCheng Network (Chinese Mainland)
 ### Introduction
-Placeholder
+In May 2019, ZhongCheng started accepting free trial applications for their new enterprise services.</br>
+Enterprises in Chinese Mainland can apply for a free Enterprise Trial Edition of the Player.</br>
+They will be asked for a copy of their "Business License of Legal Entity" to identify themselves.</br>
+
+In August 2020, ZhongCheng announced the old "Enterprise Trial Edition" will reached the end of the trial period soon.</br>
+At the same time, they started to provide [paid services for enterprises](https://www.flash.cn/enterprise/pay.html). </br>
+Enterprises applied for trial edition will have a discount for this paid service until October.</br>
+The last "Enterprise Trial Edition" provided by ZhongCheng is 32.0.0.414.
+
+In March 2021, ZhongCheng started accepting free Education Edition applications of the Player for public primary schools, </br>
+public middle schools and public collages. To identify themselves, schools will be asked for a copy of their</br>
+"Certificate of Legal Institutions" or "Organization Code Certificate".</br>
+For collages, ZhongCheng only accepts application from a education email address (normally ends like "edu.cn").</br>
+This service is not applicable for private schools.
+
+"Education Edition" is basically a free version of "Enterprise Edition" for Education purposes without Linux support (mentioned below).
+
+In May 2021, ZhongCheng stopped providing Linux version of the Player for general customers. But they said they will
+continue providing updates of Linux version for paid enterprise versions.
+
 ### Tech Specs
 After the purchase or application is finished, users will get a compressed file.
 It contains three variants of Flash Player Installer (ActiveX+PPAPI+NPAPI) and a license file (license.dat).
@@ -161,7 +182,10 @@ AMD64 OS: %WINDIR%\SysWOW64\Macromed\Flash
 The installer will deploy a special version of Flash Helper Service. The service will read the license file to check is it vaild.</br>
 If the answer is no, the Player will show a warning symbol and lead users to this page ([Problems of Flash Player Enterprise is running abnormally](https://www.flash.cn/enterprise/errordialog)).</br>
 And it won't push any ads to the computer.</br>
-The binary file of the service is protected by VMProtect 3.x.
+The binary file of the service is protected by VMProtect 3.x.</br>
+
+MSI Installers are also available for this edition.
+
 ### Available Archives (Windows)
 |Date|Version|Is MSI installer available|
 |:---|:----:|:----:|
@@ -186,7 +210,7 @@ The binary file of the service is protected by VMProtect 3.x.
 |2022.8|34.0.0.267|:heavy_check_mark:|
 |2022.11|34.0.0.277|:heavy_multiplication_x:|
 
-## Flash Player China Edition by ZhongCheng (Embedded Edition for Flash Center)
+## Flash Player Embedded Edition by ZhongCheng Network (Chinese Mainland)
 ### Introduction
 This is an Embedded version of PPAPI Flash Player for ZhongCheng's Flash Center Application. Only 32-bit version is available.
 ### Tech Specs
@@ -197,7 +221,8 @@ It refuses to play any flash contents outside the Flash Center application.</br>
 |2020.5|32.0.0.371|
 |2021.4|34.0.0.137|
 |2021.8|34.0.0.184|
-## Flash Player Built-In Edition in Windows 8.x & 10
+
+## Flash Player ActiveX Built-In Edition by Microsoft (Worldwide)
 ### Introduction
 Starting from Windows 8, Microsoft begins to integrate a special edition of Flash Player ActiveX into the Windows OS.
 The last version is v32.0.0.445.
