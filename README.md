@@ -23,7 +23,7 @@ However, some versions are not fully archived. You might be able to find them at
 ## Flash Player Enterprise Edition by HARMAN (Worldwide)
 ### Introduction
 On the [Adobe Flash Player EOL Enterprise Information Page](https://www.adobe.com/products/flashplayer/enterprise-end-of-life.html), 
-Adobe announced the official enterprise distributor for Flash Player outside China mainland, HARMAN International. From unknown sources, their Flash support service costs about $50,000 per year.
+Adobe announced the official enterprise distributor for Flash Player outside Chinese Mainland, HARMAN International. From unknown sources, their Flash support service costs about $50,000 per year.
 ### Tech Specs
 The Flash Player version provided by them is v50. In our archive, only ActiveX & PPAPI version available.</br>
 This version of Flash has been limited in the URLs that it can load. If users load a flash content and it is not located on the URL whitelist,</br>
