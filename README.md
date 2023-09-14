@@ -46,8 +46,7 @@ Unfortunately, they decided to stop offering Linux binaries for general users in
 (They will continue to offer Linux binaries for paid enterprise user.)</br>
 The last Linux version is v34.0.0.137.</br>
 The latest Windows & macOS version can be checked in ["Flash Player China Official Website"](https://www.flash.cn/download-wins).</br></br>
-The offline installers for Windows is also available at some 3rd party websites or softwares, like 360 Software Manager (360 软件管家) and Tencent Software Center (腾讯软件中心).</br>
-They're also available on flash.cn server, but normally ZhongCheng will not provide the links of these files to the public.
+The offline installers for Windows is also available at some 3rd party websites or softwares, like 360 Software Manager (360 软件管家) and Tencent Software Center (腾讯软件中心). They're also available on flash.cn server, but normally ZhongCheng will not provide the links of these files to the public.
 ### Tech Specs
 Before September 2020, the version number of China Edition is synchronized with the international version.</br>
 Starting in September 2020, the version number is raised to 33.</br>
