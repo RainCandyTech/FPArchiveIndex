@@ -46,22 +46,23 @@ Unfortunately, they decided to stop offering Linux binaries for general users in
 (They will continue to offer Linux binaries for paid enterprise user.)</br>
 The last Linux version is v34.0.0.137.</br>
 The latest Windows & macOS version can be checked in ["Flash Player China Official Website"](https://www.flash.cn/download-wins).</br></br>
-There're also offline installers for Windows too. You can download them from some 3rd party website or software,</br>
-such as 360 Software Manager (360 软件管家) and Tencent Software Center (腾讯软件中心).</br>
-They're also available on flash.cn server, but ZhongCheng doesn't publish them to the public.
+The offline installers for Windows is also available at some 3rd party websites or softwares, like 360 Software Manager (360 软件管家) and Tencent Software Center (腾讯软件中心).</br>
+They're also available on flash.cn server, but normally ZhongCheng will not provide the links of these files to the public.
 ### Tech Specs
 Before September 2020, the version number of China Edition is synchronized with the international version.</br>
 Starting in September 2020, the version number is raised to 33.</br>
 In the end of 2020, Microsoft is preparing to push a Windows Update to remove Adobe Flash Player ActiveX that integrated on Windows 8.x and Windows 10.</br>
 To let Chinese Flash Player users to play contents on an ActiveX-based browser on Windows 8.x & 10, They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
 In January 2021, the version number is raised to 34.</br></br>
-And the Windows version contains "Flash Helper Service".</br>
+And the Windows version contains "Flash Helper Service", a replacement of Adobe's own Flash Player Update Service.</br>
 The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng to "help improve Flash Player".</br>
 But according to user's feedback, this service will push ads to the computer.</br>
 And even worse, according to the early version of Flash Helper Service Software License Agreement, this service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
 If users try to disable or remove this service, Flash Player will refuse to play any contents with an error message "A required system component is not running properly" and ask users to reinstall.</br>
 This makes users angry and dissatisfy and many users appeal to uninstall Flash Player and boycutt ZhongCheng Network.</br>
 In addition, when the service detects an enterprise environment (an Active Directory environment), Flash Player will refuse to play contents too, so business users have to purchase their Enterprise Service.</br>
+
+The "Updates" tab in Flash Player Settings Manager is also hiddened in the Windows version.
 ### Available Archives (Windows Normal Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|ActiveX (Debug)|PPAPI (Debug)|NPAPI (Debug)|Projector|Projector (Debug)|SWC Lib|
 |:---|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
