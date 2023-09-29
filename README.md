@@ -8,7 +8,7 @@ The last version is v32.0.0.465.
 ### Tech Specs
 Before version 30, this version is available for consumers all around the world. After that, it is not available for consumers in Chinese Mainland.</br>
 Chinese Mainland consumers who are still visiting Adobe's own Flash Player website will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
-Windows exe installers will also check for IP from Chinese Mainland, if detected the setup will not launch and it will lead users to ZhongCheng's website too.</br>
+Windows exe installers will also check for IPs from Chinese Mainland, if detected the setup will not launch and it will lead users to ZhongCheng's website too.</br>
 Although they can install the global version of the application successfully by disconnecting from the internet, they will get an error message "not compatible with your region"
 and the Player will refuse to run any contents and requires user to reinstall. The reinstall button will lead the user to ZhongCheng's website.</br></br>
 But there's no region lock on macOS & Linux version.</br></br>
@@ -25,9 +25,9 @@ However, some versions are not fully archived. You might be able to find them at
 On the [Adobe Flash Player EOL Enterprise Information Page](https://www.adobe.com/products/flashplayer/enterprise-end-of-life.html), 
 Adobe announced the official enterprise distributor for Flash Player outside Chinese Mainland, HARMAN International. From unknown sources, their Flash support service costs about $50,000 per year.
 ### Tech Specs
-The Flash Player version provided by them is v50. In our archive, only ActiveX & PPAPI version available.</br>
-This version of Flash has been limited in the URLs that it can load. If users load a flash content and it is not located on the URL whitelist,</br>
-the Player will refuse to load it and show the info button. The button will lead users to [this page](https://airsdk.harman.com/flashplayer/blocked?url=URL). By the way, you can also get more informations at this page.
+The Flash Player version provided by them is v50. In our archive, only ActiveX & PPAPI version available. This version of Flash has been limited in the URLs that it can load. </br>
+If users load a flash content and it is not located on the URL whitelist, the Player will refuse to load it and show the info button. </br>
+The button will lead users to [this page](https://airsdk.harman.com/flashplayer/blocked?url=URL). By the way, you can also get more informations at this page.
 ### Available Archives
 |Date (CST)|Version|ActiveX|PPAPI|
 |:---|:---|:---|:---|
@@ -39,7 +39,7 @@ the Player will refuse to load it and show the info button. The button will lead
 
 ## Flash Player Consumer Edition by ZhongCheng Network (Chinese Mainland)
 ### Introduction
-In February 28, 2018, Adobe announced the exclusive partner of Flash Player in China Mainland: 2144 and its subsidiary ZhongCheng Network.</br>
+In February 28, 2018, Adobe announced the exclusive partner of Flash Player in Chinese Mainland: 2144 and its subsidiary ZhongCheng Network.</br>
 Starting from version 30, they started to distribute a China-Specific version of Flash Player.</br>
 On their "Flash Player China Official Website", they provide online installers of Flash Player for Windows users, and offline installers for Mac and Linux users.</br>
 Unfortunately, they decided to stop offering Linux binaries for general users in May 2021.</br>
