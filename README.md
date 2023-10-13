@@ -213,7 +213,8 @@ MSI Installers are also available for this edition.
 
 ## Flash Player Embedded Edition by Zorange (Chinese Mainland)
 ### Introduction
-This is an Embedded version of PPAPI Flash Player for Zorange's [Flash Center Application](https://soft.flash.cn/flashcenter/index.html) & [Global Zorange Application](https://zorange.flash.cn/). Only 32-bit version is available.
+This is an Embedded version of PPAPI Flash Player for Zorange's [Flash Center Application](https://soft.flash.cn/flashcenter/index.html) & [Global Zorange Application](https://zorange.flash.cn/).</br>
+Only 32-bit version is available.
 ### Tech Specs
 It refuses to play any flash contents outside the dedicated application.</br></br>
 ### Available Archives
