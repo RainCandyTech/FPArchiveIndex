@@ -7,10 +7,10 @@ This is the normal version released by Adobe themselves. Adobe stopped supportin
 The last version is v32.0.0.465.
 ### Tech Specs
 Before version 30, this version is available for consumers all around the world. After that, it is not available for consumers in Chinese Mainland.</br>
-Chinese Mainland consumers who are still visiting Adobe's own Flash Player website will be redirected to ZhongCheng's "Flash Player China Official Website".</br>
-Windows exe installers will also check for IPs from Chinese Mainland, if detected the setup will not launch and it will lead users to ZhongCheng's website too.</br>
+Chinese Mainland consumers who are still visiting Adobe's own Flash Player website will be redirected to Zorange's "Flash Player China Official Website".</br>
+Windows exe installers will also check for IPs from Chinese Mainland, if detected the setup will not launch and it will lead users to Zorange's website too.</br>
 Although they can install the global version of the application successfully by disconnecting from the internet, they will get an error message "not compatible with your region"
-and the Player will refuse to run any contents and requires user to reinstall. The reinstall button will lead the user to ZhongCheng's website.</br></br>
+and the Player will refuse to run any contents and requires user to reinstall. The reinstall button will lead the user to Zorange's website.</br></br>
 But there's no region lock on macOS & Linux version.</br></br>
 Starting from version 32.0.0.403, Adobe integrates a timebomb in this edition. It will refuse to play any contents starting from January 12, 2021.
 ### Available Archives
@@ -37,16 +37,16 @@ The button will lead users to [this page](https://airsdk.harman.com/flashplayer/
 |2/16/2021|50.0.20.183|:heavy_multiplication_x:|:heavy_check_mark:(x64)|
 |3/16/2021|50.0.20.338|:heavy_check_mark:(x86)|:heavy_multiplication_x:|
 
-## Flash Player Consumer Edition by ZhongCheng Network (Chinese Mainland)
+## Flash Player Consumer Edition by Zorange (Chinese Mainland)
 ### Introduction
-In February 28, 2018, Adobe announced the exclusive partner of Flash Player in Chinese Mainland: 2144 and its subsidiary ZhongCheng Network.</br>
+In February 28, 2018, Adobe announced the exclusive partner of Flash Player in Chinese Mainland: 2144 and its subsidiary Chongqing Zhongcheng Network Technology Co. Ltd. (Zorange).</br>
 Starting from version 30, they started to distribute a China-Specific version of Flash Player.</br>
 On their "Flash Player China Official Website", they provide online installers of Flash Player for Windows users, and offline installers for Mac and Linux users.</br>
 Unfortunately, they decided to stop offering Linux binaries for general users in May 2021.</br>
 (They will continue to offer Linux binaries for paid enterprise user.)</br>
 The last Linux version is v34.0.0.137.</br>
 The latest Windows & macOS version can be checked in ["Flash Player China Official Website"](https://www.flash.cn/download-wins).</br></br>
-The offline installers for Windows is also available at some 3rd party websites or softwares, like 360 Software Manager (360 软件管家) and Tencent Software Center (腾讯软件中心). They're also available on flash.cn server, but normally ZhongCheng will not provide the links of these files to the public.
+The offline installers for Windows is also available at some 3rd party websites or softwares, like 360 Software Manager (360 软件管家) and Tencent Software Center (腾讯软件中心). They're also available on flash.cn server, but normally Zorange will not provide the links of these files to the public.
 ### Tech Specs
 Before September 2020, the version number of China Edition is synchronized with the international version.</br>
 Starting in September 2020, the version number is raised to 33.</br>
@@ -54,11 +54,11 @@ In the end of 2020, Microsoft is preparing to push a Windows Update to remove Ad
 To let Chinese Flash Player users to play contents on an ActiveX-based browser on Windows 8.x & 10, They released version 33.0.0.432 in December 2020 with a Windows 8.x & 10 ActiveX special edition.</br>
 In January 2021, the version number is raised to 34.</br></br>
 And the Windows version contains "Flash Helper Service", a replacement of Adobe's own Flash Player Update Service.</br>
-The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zhongcheng to "help improve Flash Player".</br>
+The service will "make sure that the latest version of the Flash Player is installed" and "send anonymous usage data" to Zorange to "help improve Flash Player".</br>
 But according to user's feedback, this service will push ads to the computer.</br>
-And even worse, according to the early version of Flash Helper Service Software License Agreement, this service will collect privacy data such as visited websites and ZhongCheng can share these datas to 3rd parties without any liability.</br>
+And even worse, according to the early version of Flash Helper Service Software License Agreement, this service will collect privacy data such as visited websites and Zorange can share these datas to 3rd parties without any liability.</br>
 If users try to disable or remove this service, Flash Player will refuse to play any contents with an error message "A required system component is not running properly" and ask users to reinstall.</br>
-This makes users angry and dissatisfy and many users appeal to uninstall Flash Player and boycutt ZhongCheng Network.</br>
+This makes users angry and dissatisfy and many users appeal to uninstall Flash Player and boycutt Zorange.</br>
 In addition, when the service detects an enterprise environment (an Active Directory environment), Flash Player will refuse to play contents too, so business users have to purchase their Enterprise Service.</br>
 
 The "Updates" tab in Flash Player Settings Manager is also hiddened in the Windows version.
@@ -150,26 +150,26 @@ The "Updates" tab in Flash Player Settings Manager is also hiddened in the Windo
 |2021.1|34.0.0.92|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|
 |2021.4|34.0.0.137|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|:heavy_check_mark: (x86 & x64)|
 
-## Flash Player Enterprise Edition by ZhongCheng Network (Chinese Mainland)
+## Flash Player Enterprise Edition by Zorange (Chinese Mainland)
 ### Introduction
-In May 2019, ZhongCheng started accepting free trial applications for their new enterprise services.</br>
+In May 2019, Zorange started accepting free trial applications for their new enterprise services.</br>
 Enterprises in Chinese Mainland can apply for a free Enterprise Trial Edition of the Player.</br>
 They will be asked for a copy of their "Business License of Legal Entity" to identify themselves.</br>
 
-In August 2020, ZhongCheng announced the old "Enterprise Trial Edition" will reached the end of the trial period soon.</br>
+In August 2020, Zorange announced the old "Enterprise Trial Edition" will reached the end of the trial period soon.</br>
 At the same time, they started to provide [paid services for enterprises](https://www.flash.cn/enterprise/pay.html). </br>
 Enterprises applied for trial edition will have a discount for this paid service until October.</br>
-The last "Enterprise Trial Edition" provided by ZhongCheng is 32.0.0.414.
+The last "Enterprise Trial Edition" provided by Zorange is 32.0.0.414.
 
-In March 2021, ZhongCheng started accepting free Education Edition applications of the Player for public primary schools, </br>
+In March 2021, Zorange started accepting free Education Edition applications of the Player for public primary schools, </br>
 public middle schools and public collages. To identify themselves, schools will be asked for a copy of their</br>
 "Certificate of Legal Institutions" or "Organization Code Certificate".</br>
-For collages, ZhongCheng only accepts application from a education email address (normally ends like "edu.cn").</br>
+For collages, Zorange only accepts application from a education email address (normally ends like "edu.cn").</br>
 This service is not applicable for private schools.
 
 "Education Edition" is basically a free version of "Enterprise Edition" for Education purposes without Linux support (mentioned below).
 
-In May 2021, ZhongCheng stopped providing Linux version of the Player for general customers. But they said they will
+In May 2021, Zorange stopped providing Linux version of the Player for general customers. But they said they will
 continue providing updates of Linux version for paid enterprise versions.
 
 ### Tech Specs
@@ -211,17 +211,18 @@ MSI Installers are also available for this edition.
 |2022.8|34.0.0.267|:heavy_check_mark:|
 |2022.11|34.0.0.277|:heavy_multiplication_x:|
 
-## Flash Player Embedded Edition by ZhongCheng Network (Chinese Mainland)
+## Flash Player Embedded Edition by Zorange (Chinese Mainland)
 ### Introduction
-This is an Embedded version of PPAPI Flash Player for ZhongCheng's Flash Center Application. Only 32-bit version is available.
+This is an Embedded version of PPAPI Flash Player for Zorange's [Flash Center Application](https://soft.flash.cn/flashcenter/index.html) & [Global Zorange Application](https://zorange.flash.cn/). Only 32-bit version is available.
 ### Tech Specs
-It refuses to play any flash contents outside the Flash Center application.</br></br>
+It refuses to play any flash contents outside the dedicated application.</br></br>
 ### Available Archives
 |Date|Version|
 |:---|:----:|
 |2020.5|32.0.0.371|
 |2021.4|34.0.0.137|
 |2021.8|34.0.0.184|
+|2022.1|34.0.0.211|
 
 ## Flash Player ActiveX Built-In Edition by Microsoft (Worldwide)
 ### Introduction
