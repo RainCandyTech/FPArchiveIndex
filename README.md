@@ -103,6 +103,7 @@ The "Updates" tab in Flash Player Settings Manager is also hiddened in the Windo
 |2018.11 #1|31.0.0.148|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2018.11 #2|31.0.0.153|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2018.12|32.0.0.101|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2019.6|32.0.0.207|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2020.5|32.0.0.330|:heavy_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|
 |2020.6|32.0.0.387|:heavy_check_mark: (360 & Tencent)|:heavy_check_mark:|:heavy_check_mark:|
 |2020.7|32.0.0.403|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
